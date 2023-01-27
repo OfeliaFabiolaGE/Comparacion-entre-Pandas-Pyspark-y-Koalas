@@ -6,4 +6,5 @@ En el repositorio se encontrarán 4 partes; la primera es el notebook que contie
 Comparacion de comandos:
 
 GRAFICAR
+
 En esta parte yo pondria en primer lugar a mi gusto a Pandas de Pyton, en segundo lugar a Koalas y en tercer lugar a Pyspark, lo he hecho asi pues cuando use cada libreria de cada uno respectivamente pandas era facil de usar intuitivo y con muchas sintaxys faciles, koalas tiene su propia sintaxys, entendible a pesar de ser relativamente nuevo; pyspark al final pues en mi caso no se entiende muy bien su sintaxys...
