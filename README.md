@@ -5,11 +5,11 @@ En el repositorio se encontrarán 4 partes; la primera es el notebook que contie
 
 COMPARACIÓN DE COMANDOS:
 
-
+A pesar de que los tres lenguajes tienen similitudes con los comandos algunos hacen cosasdiferentes que se puede notar al comparar los tres codigos, en este apartado gana Python seguido de Pyspark y añ final Koalas.
 
 GRAFICAR
 
-En esta parte yo pondria en primer lugar a mi gusto a Pandas de Pyton, en segundo lugar a Koalas y en tercer lugar a Pyspark, lo he hecho asi pues cuando use cada libreria de cada uno respectivamente pandas era facil de usar intuitivo y con muchas sintaxys faciles, koalas tiene su propia sintaxys, entendible a pesar de ser relativamente nuevo; pyspark al final pues en mi caso no se entiende muy bien su sintaxys...
+En esta parte yo pondria en primer lugar a mi gusto a Pandas de Pyton, en segundo lugar a Koalas y en tercer lugar a Pyspark, lo he hecho asi pues cuando use cada libreria de cada uno respectivamente pandas era facil de usar intuitivo y con muchas sintaxys faciles, koalas tiene su propia sintaxys, entendible a pesar de ser relativamente nuevo; pyspark al final pues en mi caso no se entiende muy bien su sintaxys.
 
 
 PERSPECTIVA GENERAL:
