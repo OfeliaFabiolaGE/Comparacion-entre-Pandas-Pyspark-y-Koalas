@@ -1,7 +1,7 @@
 # Comparación entre Pandas de Python, Pyspark  y Koalas
 INTRODUCCIÓN
 
-En el repositorio se encontrarán 4 partes; la primera es el notebook que contiene la sintaxis usada en pandas y lleva por nombre Proyecto Parte1 Pandas, el segundo notebook lleva por nombre Proyecto Parte2 Pyspark y junto con este va el notebook de nombre Grafica pyspark, y la ultima parte es el notebook que lleva por nombre Proyecto Parte3 Koalas, cada uno contiene sintaxis de cada lenguaje respectivamente para así poder comparar la eficiencia entre los 3 por lo que a continuación colocare algunos comandos de cada uno y su comparación, posteriormente la comparación para graficar entre cada lenguaje y al final la conclusión:
+En el repositorio se encontrarán 4 partes; la primera es el notebook que contiene la sintaxis usada en pandas y lleva por nombre Proyecto Parte1 Pandas, el segundo notebook lleva por nombre Proyecto Parte2 Pyspark y junto con este va el notebook de nombre Grafica pyspark, y la ultima parte es el notebook que lleva por nombre Proyecto Parte3 Koalas, cada uno contiene sintaxis de cada lenguaje respectivamente para así poder comparar la eficiencia entre los 3 por lo que a continuación colocare una "comparacion de comandos en el que coloco cual seria el lenguaje ganador en este apartado, posteriormente la comparación para graficar entre cada lenguaje y cual es el mas eficaz y al final la conclusión:
 
 COMPARACIÓN DE COMANDOS:
 
