@@ -43,7 +43,8 @@ En esta parte yo pondria en primer lugar a mi gusto a Pandas de Pyton, en segund
 Ahora veremos porque Pandas se lleva el premio en cuanto Graficar:
 
 Pandas:
-![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/73236b25-076b-4f8a-b07e-1aa63ee8fb1a)
+![237775266-73236b25-076b-4f8a-b07e-1aa63ee8fb1a](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/18a52800-cef3-4545-b65c-a069df967f56)
+
 
 Pyspark:
 
