@@ -7,16 +7,19 @@ COMPARACIÓN DE COMANDOS:
 
 A pesar de que los tres lenguajes tienen similitudes con los comandos algunos hacen cosas diferentes que se puede notar al comparar los tres codigos, en este apartado gana Python seguido de Pyspark y al final Koalas.
 
+Por ejemplo: 
 
-
-
-Por ejemplo para consultar el total de filas y columnas tenemos lo siguiente en cada lenguaje:
+Para consultar el total de filas y columnas tenemos lo siguiente en cada lenguaje:
 
 ![237758928-d9f65e15-c24a-478c-8f2e-2580cee909c9](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/962afc5d-f746-4adb-8241-bc25c8516720)
 
 
 Para obtener el tipo de dato de cada columna tenemos que Pyspark tiene dos maneras de mostrar los datos, mientras que python y pandas una sola:
 ![237755584-89bcc730-117b-453e-9f44-b49fba834043](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/5ade17e7-11d2-415b-bda0-2ba1b1e9b9bc)
+
+Para obtener un calculo "estadistico" pandas y koalas tienen el comando describe que hace algo parecido, en cambio Pyspark hace algo más largo como se puede ver en la imagen:
+
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/90cfd507-edd6-442b-a264-9140a54ddef3)
 
 GRAFICAR
 
