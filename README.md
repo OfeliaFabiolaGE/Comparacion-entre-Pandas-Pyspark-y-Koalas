@@ -51,8 +51,8 @@ Pandas:
 Pyspark:
 
 ![237775637-7a1dd814-1657-4232-834d-12fcf767840a](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/ffb18fe1-6ff2-4586-b511-83e7130e8d8b)
+![237775677-1a540a86-869d-4e40-9268-0d801c77079b](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/96d9615e-967b-47cb-929c-b97e1caf5f86)
 
-![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/1a540a86-869d-4e40-9268-0d801c77079b)
 ![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/f59318f6-4c0e-418d-9c24-4e28c671b706)
 ![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/ab127eb8-433b-4741-aaaf-04a3b0e741f0)
 
