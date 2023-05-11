@@ -19,7 +19,8 @@ Para obtener el tipo de dato de cada columna tenemos que Pyspark tiene dos maner
 
 Para obtener un calculo "estadistico" pandas y koalas tienen el comando describe que hace algo parecido, en cambio Pyspark hace algo más largo como se puede ver en la imagen:
 
-![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/90cfd507-edd6-442b-a264-9140a54ddef3)
+![237761355-90cfd507-edd6-442b-a264-9140a54ddef3](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/6fc0a3e1-297d-4c54-90d2-a58db468318b)
+
 
 GRAFICAR
 
