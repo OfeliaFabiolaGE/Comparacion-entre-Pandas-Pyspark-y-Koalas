@@ -21,6 +21,8 @@ Para obtener un calculo "estadistico" pandas y koalas tienen el comando describe
 
 ![237761355-90cfd507-edd6-442b-a264-9140a54ddef3](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/6fc0a3e1-297d-4c54-90d2-a58db468318b)
 
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/27ce51f6-8c64-47b7-899a-fcd755e3c027)
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/63da4345-e7a9-4e24-a748-5b01a3445f56)
 
 GRAFICAR
 
