@@ -30,7 +30,6 @@ En la parte de filtrado de filas y columnas tenemos que Pandas tiene dos opcione
 ![237773100-c9794bb1-ba7b-4fcb-98bc-1418d6d921ff](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/425f1be9-9170-4962-a1bf-cb1ab504c4f3)
 
 
-
 GRAFICAR
 
 En esta parte yo pondria en primer lugar a mi gusto a Pandas de Pyton, en segundo lugar a Koalas y en tercer lugar a Pyspark, lo he hecho asi pues cuando use cada libreria de cada uno respectivamente pandas era facil de usar intuitivo y con muchas sintaxys faciles, koalas tiene su propia sintaxys, entendible a pesar de ser relativamente nuevo; pyspark al final pues en mi caso no se entiende muy bien su sintaxys.
