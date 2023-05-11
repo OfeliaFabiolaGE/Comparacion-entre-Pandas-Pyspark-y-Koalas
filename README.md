@@ -61,7 +61,8 @@ Koalas:
 
 ![237784923-ba4cc322-1cd2-4cb5-9d17-8e5519cd2939](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/3c097a8c-6c86-4a96-bc66-6f1f5be7ff07)
 
-![237784923-ba4cc322-1cd2-4cb5-9d17-8e5519cd2939](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/5d4679e3-fa08-442f-b57b-dbe9007790aa)
+![237785897-42de8be7-438b-413e-b880-a2f449407a26](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/334093d0-1eb9-4cc8-a792-382569f79259)
+
 
 
 
