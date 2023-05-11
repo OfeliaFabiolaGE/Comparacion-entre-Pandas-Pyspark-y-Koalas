@@ -40,6 +40,20 @@ GRAFICAR
 
 En esta parte yo pondria en primer lugar a mi gusto a Pandas de Pyton, en segundo lugar a Koalas y en tercer lugar a Pyspark, lo he hecho asi pues cuando use cada libreria de cada uno respectivamente pandas era facil de usar intuitivo y con muchas sintaxys faciles, koalas tiene su propia sintaxys, entendible a pesar de ser relativamente nuevo; pyspark al final pues en mi caso no se entiende muy bien su sintaxys.
 
+Ahora veremos porque Pandas se lleva el premio en cuanto Graficar:
+
+Pandas:
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/73236b25-076b-4f8a-b07e-1aa63ee8fb1a)
+
+Pyspark:
+
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/7a1dd814-1657-4232-834d-12fcf767840a)
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/1a540a86-869d-4e40-9268-0d801c77079b)
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/f59318f6-4c0e-418d-9c24-4e28c671b706)
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/ab127eb8-433b-4741-aaaf-04a3b0e741f0)
+
+Koalas:
+
 
 PERSPECTIVA GENERAL:
 
