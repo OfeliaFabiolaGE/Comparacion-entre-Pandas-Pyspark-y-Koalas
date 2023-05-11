@@ -25,7 +25,9 @@ Para obtener un calculo "estadistico" pandas y koalas tienen el comando describe
 ![237762259-63da4345-e7a9-4e24-a748-5b01a3445f56](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/d78e62a4-abcb-4f96-9d8d-cbcc5900febd)
 
 En la parte de filtrado de filas y columnas tenemos que Pandas tiene dos opciones, la primera en la que solo filtra filas especificas y la que combina el filtrado de fila y columna tambien pudiendo hacerlo muy especifico, Pyspark tiene algo parecido, pero no tiene el comando .loc ni .iloc en cambio pandas si lo maneja, de la misma manera que maneja filtrado de columnas y filas combinadas y de forma especifica:
-![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/e5917ff0-bf45-4f68-a9d3-3c9b4a52b803)
+![237769374-e5917ff0-bf45-4f68-a9d3-3c9b4a52b803](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/89be53aa-a919-476a-a027-c8af2fd13235)
+
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/67740b3a-faf1-4564-8751-25d712e2a1be)
 
 GRAFICAR
 
