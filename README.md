@@ -58,6 +58,7 @@ Pyspark:
 
 
 Koalas:
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/ba4cc322-1cd2-4cb5-9d17-8e5519cd2939)
 
 
 PERSPECTIVA GENERAL:
