@@ -34,10 +34,7 @@ Pyspark
 
 ![237773865-24132634-78ab-4bfa-8235-28311e1fc1e8](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/85d618fa-abe3-4fc7-b5e5-d0e14df5dfae)
 
-
-
-![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/cc886e3f-067e-4236-a988-70dd81393184)
-
+![237773957-cc886e3f-067e-4236-a988-70dd81393184](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/49b3f740-b991-42d4-96e8-60b8557ce065)
 
 GRAFICAR
 
