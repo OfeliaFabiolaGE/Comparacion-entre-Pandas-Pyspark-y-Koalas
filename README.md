@@ -32,8 +32,9 @@ En la parte de filtrado de filas y columnas tenemos que Pandas tiene dos opcione
 Pyspark
 ![237773807-e669dd7e-79e8-4ef7-b409-839dd65fe66d](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/59a6e139-dae3-4404-b47f-96c01e3346ae)
 
+![237773865-24132634-78ab-4bfa-8235-28311e1fc1e8](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/85d618fa-abe3-4fc7-b5e5-d0e14df5dfae)
 
-![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/24132634-78ab-4bfa-8235-28311e1fc1e8)
+
 
 ![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/cc886e3f-067e-4236-a988-70dd81393184)
 
