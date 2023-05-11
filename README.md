@@ -24,7 +24,9 @@ Para obtener un calculo "estadistico" pandas y koalas tienen el comando describe
 ![237762177-27ce51f6-8c64-47b7-899a-fcd755e3c027](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/0636d74f-f00c-47c5-adb2-6904a36322e4)
 ![237762259-63da4345-e7a9-4e24-a748-5b01a3445f56](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/d78e62a4-abcb-4f96-9d8d-cbcc5900febd)
 
-En la parte de filtrado de filas y columnas tenemos que Pandas tiene dos opciones, la primera en la que solo filtra filas especificas y la que combina el filtrado de fila y columna
+En la parte de filtrado de filas y columnas tenemos que Pandas tiene dos opciones, la primera en la que solo filtra filas especificas y la que combina el filtrado de fila y columna tambien pudiendo hacerlo muy especifico, Pyspark tiene algo parecido, pero no tiene el comando .loc ni .iloc en cambio pandas si lo maneja, de la misma manera que maneja filtrado de columnas y filas combinadas y de forma especifica:
+![image](https://github.com/OfeliaFabiolaGE/Parte2/assets/121463974/e5917ff0-bf45-4f68-a9d3-3c9b4a52b803)
+
 GRAFICAR
 
 En esta parte yo pondria en primer lugar a mi gusto a Pandas de Pyton, en segundo lugar a Koalas y en tercer lugar a Pyspark, lo he hecho asi pues cuando use cada libreria de cada uno respectivamente pandas era facil de usar intuitivo y con muchas sintaxys faciles, koalas tiene su propia sintaxys, entendible a pesar de ser relativamente nuevo; pyspark al final pues en mi caso no se entiende muy bien su sintaxys.
